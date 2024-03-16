@@ -1,3 +1,23 @@
+### Directories
+data/source
+_supplementary/
+.vscode/
+analysis/reference
+
+#### Data
+*.ftr
+
+### Files
+analysis/notebooks/temp.py
+
+### R
+.Rhistory
+.Rproj.user
+*.Rproj.user
+*.Rproj
+
+### Python
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
